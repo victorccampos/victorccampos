@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Victor Campos</h1>
 <h3 align="center">Theoretical-computational physicist and data science enthusiast</h3>
 
-- 💻 I work with the material simulation technique called **Phase-Field**  
+- 💻 I work with the material simulation technique called phase-field  
 
 - 🌱 I’m currently learning **Machine Leaning e Data Science**
 
@@ -58,5 +58,13 @@
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
   </a>
-
+  <!-- Jupyter Notebook -->
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/>
+  </a>
+  <!-- MANIM -->
+  <a href="https://www.manim.community/" target="_blank" rel="noreferrer">
+    <img src="https://www.manim.community/logo.svg" alt="manim" width="40" height="40"/>
+  </a>
 </p>
+
