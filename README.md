@@ -1,21 +1,13 @@
 
-<h3 align="center">Theoretical-computational physicist and data science enthusiast</h3>
+<h3 align="center">Físico Teórico-Computacional e entusiasta em Ciência de Dados </h3>
 
-- 💻 I work with the material simulation technique called phase-field  
+- 💻 Trabalho com simulações por campo de fase 
 
-- 🌱 I’m currently learning **Machine Leaning e Data Science**
+- 🌱 Aprendendo sobre ciência de dados e aprendizado de máquina
 
-- 💬 Ask me about **physics, math, computer science, music, life**
+- 📫  Me contate por [Email](mailto:victorjvc2020@gmail.com) [LinkedIn](https://www.linkedin.com/in/joão-victor-campos-a35817317/)
 
-- 📫 How to reach me **victorjvc2020@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/joão-victor-campos-a35817317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joão-victor-campos-a35817317/" height="30" width="40" /></a>
-<a href="https://medium.com/@victorccampos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@victorccampos" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
   
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
