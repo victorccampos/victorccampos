@@ -3,7 +3,7 @@
 
 - 💻 Trabalho com simulações por campo de fase 
 
-- 🌱 Aprendendo sobre ciência de dados e aprendizado de máquina
+- 🌱 Aprendendo sobre ciência de dados 
 
 - 📫  Me contate por [Email](mailto:victorjvc2020@gmail.com) [LinkedIn](https://www.linkedin.com/in/joão-victor-campos-a35817317/)
 
