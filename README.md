@@ -5,7 +5,7 @@
 
 - 🌱 Aprendendo sobre ciência de dados 
 
-- 📫  Me contate por [Email](mailto:victorjvc2020@gmail.com) [LinkedIn](https://www.linkedin.com/in/joão-victor-campos-a35817317/)
+- 📫 Me contate por <a href="mailto:victorjvc2020@gmail.com">Email</a> [LinkedIn](https://www.linkedin.com/in/joão-victor-campos-a35817317/)
 
 
   
