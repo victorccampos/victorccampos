@@ -1,7 +1,7 @@
 
 <h3 align="center">Físico Teórico-Computacional e entusiasta em Ciência de Dados </h3>
 
-- 💻 Faço pesquisas em Física em materiais utilizando [simulações por campo de fase](https://en.wikipedia.org/wiki/Phase-field_model)
+- 💻 Faço pesquisa em Física de materiais utilizando [simulações por campo de fase](https://en.wikipedia.org/wiki/Phase-field_model)
 
 - 🌱 Aprendendo sobre desenvolvimento Python e Ciência de dados 
 
