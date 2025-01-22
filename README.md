@@ -3,18 +3,17 @@
 
 - 💻 Faço pesquisa em Física de materiais utilizando [simulações por campo de fase](https://en.wikipedia.org/wiki/Phase-field_model)
 
-- 🌱 Aprendendo sobre desenvolvimento Python e Ciência de dados 
+- 📔 Aprendendo sobre desenvolvimento Python e Ciência de dados 
 
-- 📫 Me contate: <a href="mailto:victorjvc2020@gmail.com">Email</a> [LinkedIn](https://www.linkedin.com/in/joão-victor-campos-a35817317/)
+- 📫 Me contate: <a href="mailto:victorjvc2020@gmail.com">Email</a> [LinkedIn](https://www.linkedin.com/in/joaovictorcamposcosta/)
 
-<div>
-  <a href="https://github.com/victorccampos">
-  <div>
-    <a href="https://github.com/victorccampos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorccampos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      <!-- Adicionar quando tiver mais linguagens no repositório-->
-     <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorccampos&layout=compact&langs_count=7&theme=algolia"/>-->
-  </div>
+<div align="right" style="margin:auto">
+     <a href="https://github.com/victorccampos">
+        <img height="170em"
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorccampos&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=24&theme=transparent&title_color=4a86d1&custom_title=My%20favorite%20languages"
+             alt="Most used languages"
+             align="right">
+    </a>
 </div>
 
 
