@@ -1,21 +1,21 @@
+<h1 style="
+    background-color: #251351; 
+    color: white; 
+    padding: 10px; 
+    text-align: left; 
+    font-family: Arial, sans-serif; 
+    font-size: 32px; 
+    font-weight: bold; 
+    margin: 10px 0;">
+    Físico Teórico-Computacional e estudante de Ciência de Dados
+</h1>
 
-<h3 align="center">Físico Teórico-Computacional e estudante de Ciência de Dados </h3>
 
-- 💻 Faço pesquisa em Física de materiais utilizando [simulações por campo de fase](https://en.wikipedia.org/wiki/Phase-field_model)
+- 💻 Faço pesquisa em Física de materiais utilizando Métodos de primeiros princípios - Density Functional Theory (DFT) para criação de potenciais atomísticos de rede neural, Machine Learning Force Field (MLFF).
 
-- 📔 Aprendendo sobre desenvolvimento Python e Ciência de dados 
+- 📔 Aprendendo sobre desenvolvimento Python e Ciência de dados pela [Alura](https://cursos.alura.com.br/user/victorjvc2020), ⬅️ confira o meu perfil .
 
 - 📫 Me contate: <a href="mailto:victorjvc2020@gmail.com">Email</a> [LinkedIn](https://www.linkedin.com/in/joaovictorcamposcosta/)
-
-<div align="right" style="margin:auto">
-     <a href="https://github.com/victorccampos">
-        <img height="170em"
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorccampos&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=24&theme=transparent&title_color=4a86d1&custom_title=My%20favorite%20languages"
-             alt="Most used languages"
-             align="right">
-    </a>
-</div>
-
 
 <!-- Imagens de Bibliotecas -->
 <div style="display: inline_block"><br>
